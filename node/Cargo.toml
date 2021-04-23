@@ -9,5 +9,3 @@ edition = "2018"
 [dependencies]
 ipfs-api = { version = "*", features = ["with-actix"], default-features = false }
 actix-rt = "1.0"
-
-# test comment
